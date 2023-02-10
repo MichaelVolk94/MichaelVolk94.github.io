@@ -9,3 +9,8 @@ header, footer{
 .padding {
     padding: 18px;}
 
+    .wrapper{
+        width: 80%;
+        margin: auto;
+    
+    }
