@@ -38,6 +38,6 @@ h3 {
         margin: 0;
         padding: 0;}
 
-main :nth-child(1){
+ :nth-child(1){
     font-weight: bold;
 }
