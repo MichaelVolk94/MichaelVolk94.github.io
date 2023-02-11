@@ -8,6 +8,9 @@ header, footer{
     footer {background-color: yellow;
     color:darkgreen;
 font-size: 18px}
+main header{
+    background-color: yellow;
+}
 
 .padding {
     padding: 18px;}
