@@ -28,4 +28,4 @@ main p {
 
 h3 {
     font-size: 18px;} 
-    q {font-size: 18px}
+    q, em {font-size: 18px}
