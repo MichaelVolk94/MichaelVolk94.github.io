@@ -4,7 +4,8 @@ body {
     text-align: center;}
 
 header, footer{
-    text-align: center;}
+    text-align: center;
+background-color: yellow;}
 
 .padding {
     padding: 18px;}
