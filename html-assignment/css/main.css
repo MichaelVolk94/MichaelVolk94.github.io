@@ -41,3 +41,5 @@ h3 {
 main :nth-child(1){
     font-weight: bold;
 }
+
+h2 {font-size: 18px;}
