@@ -6,7 +6,8 @@ body {
 header, footer{
     text-align: center;}
     footer {background-color: yellow;
-    color:darkgreen}
+    color:darkgreen;
+font-size: 18px}
 
 .padding {
     padding: 18px;}
