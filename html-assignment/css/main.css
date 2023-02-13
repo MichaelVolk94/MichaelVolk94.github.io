@@ -1,4 +1,4 @@
-html 
+html
 /* Using inheritance to effect all child elements */
 body {
     font-family: Arial, Helvetica, sans-serif ;
@@ -13,6 +13,8 @@ font-size: 18px}
  header{
     background-color: yellow;
 }
+
+.content-wrapper {padding: 10px 30px}
 
 .padding {
     padding: 18px;}
