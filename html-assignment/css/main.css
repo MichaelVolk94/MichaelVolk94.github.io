@@ -1,10 +1,8 @@
-html
-/* Using inheritance to effect all child elements */
 body {
     font-family: Arial, Helvetica, sans-serif ;
     background-color: aliceblue;
     text-align: center;}
-
+/* Using inheritance to effect all child elements */
 header, footer{
     text-align: center;}
     footer {background-color: yellow;
@@ -47,5 +45,3 @@ main :nth-child(1){
     font-weight: bold;
 }
 src {box-shadow: 2px, 1px}
-
-.box {color:greenyellow}
