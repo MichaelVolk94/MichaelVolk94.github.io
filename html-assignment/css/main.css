@@ -48,4 +48,4 @@ main :nth-child(1){
 /* selects any <a> with an href attribute*/
 a:link {color:darkblue}
 /* selects any <a> that has been visited*/
-a:visited {color:green}
+a:visited {color:indigo}
