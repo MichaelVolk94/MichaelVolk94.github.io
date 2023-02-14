@@ -50,4 +50,4 @@ a:link {color:darkblue}
 /* selects any <a> that has been visited*/
 a:visited {color:darkred}
 
-ul {list-style-type: square;}
+li {list-style-type: square;}
