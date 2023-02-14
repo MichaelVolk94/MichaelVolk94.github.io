@@ -45,6 +45,7 @@ main :nth-child(1){
     font-weight: bold;
 }
 
-li > a {color:darkblue}
+/* selects any <a> with an href attribute*/
+a:link {color:darkblue}
 /* selects any <a> that has been visited*/
 a:visited {color:green}
