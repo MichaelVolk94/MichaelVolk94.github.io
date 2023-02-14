@@ -46,3 +46,5 @@ main :nth-child(1){
 }
 
 li > a {color:darkblue}
+/* selects any <a> that has been visited*/
+a:visited {color:green}
