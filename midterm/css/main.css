@@ -1,0 +1,14 @@
+/* bg color in case pixture breaks */
+header h1 {
+    font-size: 2rem;
+    position: absolute;
+}
+
+nav ul {
+    /* makes list item go into a row */
+    display: inline block;
+    margin-left: 10px;}
+
+
+
+    
