@@ -17,5 +17,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color:lightblue;}
     .padding {padding: 20px;}
+    body p {
+        font-size: 18px;
+        line-height: 1.5;
+        /*font-weight: normal*/}
 html {font-size: 18px}
     
