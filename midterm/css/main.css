@@ -10,8 +10,9 @@ header p {
 
 nav ul {
     /* makes list item go into a row */
-    display: inline block;
+    display: inline;
     margin-left: 10px;}
+ 
 
 body {
     font-family: Arial, Helvetica, sans-serif;
