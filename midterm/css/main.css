@@ -4,6 +4,10 @@ header h1 {
     position: absolute;
 }
 
+.wrapper {
+    width: 1000px;
+    margin: auto;}
+
 header p {
     /*font-size 2em*/ /* 16 * 1.5 *2 */
     font-size: 2rem;}
