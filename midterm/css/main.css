@@ -6,10 +6,9 @@ header h1 {
 .header {
     padding: 60px;
     text-align: center;
-    background-image: url(../images/nascar1.jpg);
+    background-image: url(../images/nascar6.jpg);
     /*background-position: 20px 100px*/
-    background-size: cover;
-    background-position: 20px 40px;}
+    background-size: cover;}
 .wrapper {
     width: 1000px;
     margin: auto;
