@@ -47,7 +47,8 @@ html {font-size: 18px}
     width: 50%;}
 
     h3 {
-        font-size: larger;}
+        font-size: larger;
+    font-weight:lighter;}
 
         input {border-bottom: 3px;}
 
