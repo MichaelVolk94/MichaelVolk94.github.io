@@ -49,4 +49,6 @@ html {font-size: 18px}
     h3 {
         font-size: larger;}
 
+        input {border-bottom: 3px;}
+
 footer { padding: 20px}
