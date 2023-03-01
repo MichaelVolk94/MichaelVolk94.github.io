@@ -64,5 +64,7 @@ padding: 15px;
 border-radius: 1px;}
 
         input {border-bottom: 3px;}
+        /* selects any <a> with an href attribute*/
+a {color: black;}
 
 footer { padding: 20px}
