@@ -73,6 +73,6 @@ border-radius: 1px;}
         /* selects any <a> with an href attribute*/
 a {color: black;}
 
-ul h3 {font-size: 14px;}
+li h2 {font-size: 14px;}
 
 footer { padding: 20px}
