@@ -2,8 +2,8 @@
 header h1 {
     font-size: 2rem;
     position: absolute;
-    text-align: center;
-}
+    text-align: middle;}
+
 .header {
     padding: 60px;
     text-align: center;
@@ -27,11 +27,13 @@ nav ul {
     display: inline;
     margin-left: 10px;
 list-style-type: none;
-padding: 0;}
+padding: 0;
+text-align: middle;}
 
 nav ul li {display: inline-block;
 margin-right: 20px;
-padding: 20px;}
+padding: 20px;
+text-align:center;}
  
 a {text-decoration: none;}
 
