@@ -74,7 +74,8 @@ border-radius: 1px;}
         input {border-bottom: 3px;}
         /* selects any <a> with an href attribute*/
 a {color: black;
-font-size: 18px;}
+font-size: 18px;
+text-align: middle;}
 
 li {font-size: 14px;}
 
