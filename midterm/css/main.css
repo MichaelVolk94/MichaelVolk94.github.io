@@ -73,9 +73,10 @@ border-radius: 1px;}
 
         input {border-bottom: 3px;}
         /* selects any <a> with an href attribute*/
-a {color: black;}
+a {color: black;
+font-size: 18px;}
 
-li h2 {font-size: 14px;}
+li {font-size: 14px;}
 
 textarea {height: 100px;
 width: 950px;}
