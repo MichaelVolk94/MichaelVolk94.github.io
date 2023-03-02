@@ -3,7 +3,8 @@ header h1 {
     font-size: 2rem;
     position: absolute;
     display:inline-block;
-    text-align: middle;}
+    text-align: middle;
+color: yellow;}
 
 .header {
     padding: 60px;
