@@ -90,6 +90,8 @@ textarea {height: 100px;
 width: 950px;}
 
 form {text-align: left;}
+form input {width: 950px;
+height:25px;}
 
 footer { padding: 20px;
     display:inline-block;
