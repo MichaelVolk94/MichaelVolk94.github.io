@@ -14,11 +14,11 @@ li {
     list-style-type: none;
 }
 
-.container {
+.header {
     position: relative;
     background: #222;
-    max-width: 1200px;
 }
+
 iframe {
     border: 0;
     width: 100%;
