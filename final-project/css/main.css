@@ -37,7 +37,7 @@ table {
     border-collapse: collapse;
 }
 
-table , .days , .hours {
+table th {
     background-color: #ffe6ac;
 }
 
