@@ -25,6 +25,10 @@ iframe {
     height: 500px;
 }
 
+table {
+    border: 11px solid;
+}
+
 footer {
     background-color:#222;
 }
