@@ -43,6 +43,7 @@ table th {
 table, th, td {
     border: 1px solid;
     border-collapse: collapse;
+    padding: 20px;
 }
 
 footer {
