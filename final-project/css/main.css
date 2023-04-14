@@ -1,5 +1,6 @@
 .wrapper {
     margin: auto;
+    background-color: white;
 }
 
 .fa-magnifying-glass {
@@ -22,6 +23,7 @@ li {
 .container {
     max-width: 1200px;
 }
+
 
 iframe {
     border: 0;
