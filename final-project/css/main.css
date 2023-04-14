@@ -19,6 +19,10 @@ li {
     background: #222;
 }
 
+.container {
+    max-width: 1200px;
+}
+
 iframe {
     border: 0;
     width: 100%;
