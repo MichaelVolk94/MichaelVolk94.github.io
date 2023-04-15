@@ -47,7 +47,14 @@ a {
     position: relative;
 }
 
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color:#222;
+    color: white;
 
+}
 
 h1 {
     font-weight: bolder;
