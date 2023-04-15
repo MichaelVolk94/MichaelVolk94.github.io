@@ -15,6 +15,7 @@ font-family: 'Montserrat', sans-serif;
 nav ul li {
     list-style-type: none;
     color:#c78c06;
+    text-align: center;
 }
 
 .header {
