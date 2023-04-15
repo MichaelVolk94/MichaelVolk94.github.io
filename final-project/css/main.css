@@ -39,13 +39,13 @@ a {
 }
 
 
-
 /* Container holding the image and the text */
 .container {
     max-width: 1200px;
     text-align: left;
     position: relative;
 }
+
 
 
 h1 {
