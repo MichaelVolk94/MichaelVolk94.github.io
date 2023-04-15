@@ -47,8 +47,9 @@ a {
 
 .text-block {
     position: relative;
+    width: 1200px;
     bottom: 250px;
-    right: 20px;
+    right: 0px;
     background-color:#222;
     color: white;
     box-sizing: border-box;
