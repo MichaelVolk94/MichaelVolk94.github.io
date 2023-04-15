@@ -20,8 +20,10 @@ li {
     background: #222;
 }
 
+/* Container holding the image and the text */
 .container {
     max-width: 1200px;
+    text-align: left;
 }
 
 h1 {
