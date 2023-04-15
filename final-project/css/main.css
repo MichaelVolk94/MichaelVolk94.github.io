@@ -20,11 +20,6 @@ nav ul li {
     text-align: center;
 }
 
-form input {
-    width: 950px;
-	height: 25px;
-}
-
 nav ul {
 	/* makes list item go into a row */
 	display: flex;
