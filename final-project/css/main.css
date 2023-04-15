@@ -24,7 +24,9 @@ li {
 .container {
     max-width: 1200px;
     text-align: left;
+    position: relative;
 }
+
 
 h1 {
     font-weight: bolder;
