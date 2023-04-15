@@ -18,6 +18,7 @@ li {
 .header {
     position: relative;
     background: #222;
+    text-align: center;
 }
 
 /* Container holding the image and the text */
