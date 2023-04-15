@@ -6,6 +6,7 @@
 .fa-magnifying-glass {
     background-color: #222;
     color: #c78c06;
+    border: 1px solid#c78c06;
 }
 body {
 font-family: 'Montserrat', sans-serif;
