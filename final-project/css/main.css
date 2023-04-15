@@ -77,6 +77,12 @@ iframe {
     height: 500px;
 }
 
+.parent {
+    display: flex;
+    flex-direction: row;
+    background-color:#ffe6ac;
+}
+
 table {
     border: 1px solid;
     background-color: white;
