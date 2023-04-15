@@ -112,4 +112,7 @@ footer p {
 @media screen and (min-width: 760px) {
 /* Styles applied for minimum width of 760px and over */
 
+main {
+    grid-template-columns: 1fr 1fr;
+}
 }
