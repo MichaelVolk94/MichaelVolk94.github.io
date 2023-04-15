@@ -19,6 +19,15 @@ nav ul li {
     text-align: center;
 }
 
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+}
+
 nav ul {
 	/* makes list item go into a row */
 	display: flex;
@@ -53,6 +62,7 @@ a {
     right: 20px;
     background-color:#222;
     color: white;
+    box-sizing: border-box;
 }
 
 
