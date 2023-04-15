@@ -17,6 +17,10 @@ nav ul li {
     color:#c78c06;
     text-align: center;
 }
+a {
+	text-decoration: none;
+    color:#c78c06;
+}
 
 .header {
     position: relative;
