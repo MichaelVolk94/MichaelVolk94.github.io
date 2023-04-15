@@ -19,6 +19,9 @@ li {
     position: relative;
     background: #222;
     text-align: center;
+}
+
+.header li {
     color:#c78c06;
 }
 
