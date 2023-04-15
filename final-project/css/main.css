@@ -31,6 +31,7 @@ a {
 
 
 .header {
+    width: 1000px;
     position: relative;
     background: #222;
 }
@@ -45,7 +46,7 @@ a {
 }
 
 .text-block {
-    position: absolute;
+    position: relative;
     bottom: 250px;
     right: 20px;
     background-color:#222;
