@@ -17,10 +17,21 @@ nav ul li {
     color:#c78c06;
     text-align: center;
 }
+
+nav ul {
+	/* makes list item go into a row */
+	display: flex;
+	margin-left: 10px;
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+
 a {
 	text-decoration: none;
     color:#c78c06;
 }
+
 
 .header {
     position: relative;
