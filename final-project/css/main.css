@@ -37,7 +37,12 @@ nav ul {
 	text-align: center;
 }
 
-
+.search {
+    border: 1px solid;
+    height: 20px;
+    width: 50%;
+    outline: 0;
+}
 
 a {
     display: table-cell;
