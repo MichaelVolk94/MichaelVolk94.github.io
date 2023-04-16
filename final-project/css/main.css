@@ -70,6 +70,14 @@ a {
     position: relative;
 }
 
+.grid-container {
+    background-color: #ffe6ac;
+}
+
+.box1 {
+    display: grid;
+    grid-template-columns: (2, 1fr);
+}
 
 input [type=button] {
     border: 1px solid #c78c06;
