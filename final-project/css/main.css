@@ -18,6 +18,8 @@ font-family: 'Montserrat', sans-serif;
     margin: auto;
 }
 
+.content
+
 nav ul {
 	/* makes list item go into a row */
 	display: flex;
