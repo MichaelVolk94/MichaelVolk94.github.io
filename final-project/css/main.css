@@ -50,15 +50,6 @@ a {
     position: relative;
 }
 
-.text-block {
-    position: relative;
-    width: 1200px;
-    bottom: 250px;
-    right: 0px;
-    background-color:#222;
-    color: white;
-    box-sizing: border-box;
-}
 
 input [type=button] {
     border: 1px solid #c78c06;
