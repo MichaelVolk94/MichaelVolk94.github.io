@@ -65,6 +65,7 @@ input [type=button] {
 
 input {
     height: 20px;
+    width: 50%;
 }
 
 h1 {
