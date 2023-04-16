@@ -68,6 +68,11 @@ input {
     width: 50%;
 }
 
+textarea {
+	height: 50px;
+	width: 50%;
+}
+
 h1 {
     font-size: 2rem;
     font-weight: bolder;
