@@ -60,6 +60,11 @@ a {
 
 input [type=button] {
     border: 1px solid #c78c06;
+
+}
+
+input {
+    height: 20px;
 }
 
 h1 {
