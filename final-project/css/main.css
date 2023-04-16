@@ -27,7 +27,7 @@ ul {
 nav ul {
 	/* makes list item go into a row */
 	display: flex;
-	margin-left: 10px 0;
+	margin-left: 10px;
 	list-style-type: none;
 	padding: 0;
 	text-align: center;
@@ -68,6 +68,13 @@ input {
 textarea {
 	height: 150px;
 	width: 50%;
+}
+
+.form-submit-button {
+    height: 50px;
+    width: 50px;
+    text-shadow: none;
+
 }
 
 h1 {
