@@ -27,15 +27,25 @@ ul {
 nav ul {
 	/* makes list item go into a row */
 	display: flex;
-	margin-left: 10px;
+    table-layout: fixed;
+    border-collapse: collapse;
+	margin: 0;
 	list-style-type: none;
 	padding: 0;
+    width: 100%;
+    height: 100%;
 	text-align: center;
 }
 
+
+
 a {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid;
 	text-decoration: none;
-    color:#c78c06;
+    color: #c78c06;
 }
 
 
