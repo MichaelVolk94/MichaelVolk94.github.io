@@ -45,14 +45,7 @@ nav ul {
     outline: 0;
 }
 
-a {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-    border: 1px solid;
-	text-decoration: none;
-    color: #c78c06;
-}
+
 
 
 /* Style the header with a dark background and some padding */
@@ -66,13 +59,20 @@ a {
 /* Style the header links */
 .header a {
     float: left;
+    color: #c78c06;
     text-align: center;
     padding: 12px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 25px;
-    border-radius: 1px solid;
-}
+    border-radius: 4px;
+  }
+
+/* Change the background color on mouse-over */
+.header a:hover {
+    background-color: #c78c06;
+    color: #222;
+  }
 
 /* Style the active/current link */
 .header a .active {
