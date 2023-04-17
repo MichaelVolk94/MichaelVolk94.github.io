@@ -79,31 +79,11 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .box {
-    background-color:#ffe6ac;
+    background-color: #ffe6ac;
+    border-radius: 5px;
+    align-items: center;
 }
 
-.box1 {
-    display: flex;
-    flex-wrap: wrap;
-}
-.box2 {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.box3{
-    display: flex;
-    flex-wrap: wrap;
-}
-.box4 {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.box5 {
-    display: flex;
-    flex-wrap: wrap;
-}
 
 input [type=button] {
     border: 1px solid #c78c06;
