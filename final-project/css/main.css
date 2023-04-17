@@ -62,7 +62,14 @@ a {
     overflow: hidden;
 }
 
-
+.header a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+}
 
 /* Container holding the image and the text */
 .container {
