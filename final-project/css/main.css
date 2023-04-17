@@ -59,6 +59,7 @@ a {
     width: 1200px;
     position: relative;
     background: #222;
+    overflow: hidden;
 }
 
 
