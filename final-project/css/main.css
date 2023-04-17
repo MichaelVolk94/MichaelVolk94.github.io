@@ -60,6 +60,7 @@ a {
     position: relative;
     background: #222;
     overflow: hidden;
+    padding: 20px;
 }
 
 /* Style the header links */
