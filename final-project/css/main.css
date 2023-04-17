@@ -74,11 +74,11 @@ nav ul {
     color: #222;
   }
 
-/* Style the active/current link */
-.header a .active {
-    color:#222;
-    background-color:#c78c06;
-}
+/* Style the active/current link*/
+.header a.active {
+    background-color: #c78c06;
+    color: #222;
+  }
 
 /* Container holding the image and the text */
 .container {
