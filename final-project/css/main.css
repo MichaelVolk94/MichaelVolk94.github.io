@@ -55,13 +55,13 @@ a {
 }
 
 
+/* Style the header with a dark background and some padding */
 .header {
     width: 1200px;
-    position: relative;
-    background: #222;
     overflow: hidden;
-    padding: 20px;
-}
+    background-color: #222;
+    padding: 20px 10px;
+  }
 
 /* Style the header links */
 .header a {
