@@ -78,13 +78,27 @@ font-family: 'Montserrat', sans-serif;
     background-color: #ffe6ac;
 }
 
-.box1 {
-    display: grid;
-    grid-template-columns: (2, 1fr);
+.box-1 {
+    display: flex;
+    flex-wrap: wrap;
 }
-.box2 {
-    display: grid;
-    grid-template-columns: (2, 1fr);
+.box-2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box-3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box-4 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box-5 {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 input [type=button] {
