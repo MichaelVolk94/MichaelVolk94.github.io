@@ -80,6 +80,11 @@ nav ul {
     color: #222;
   }
 
+  /* Float the link section to the right */
+.header-right {
+    float: right;
+  }
+
 /* Container holding the image and the text */
 .container {
     max-width: 1200px;
@@ -172,5 +177,8 @@ footer p {
     float: none;
     display: block;
     text-align: left;
-}
+  }
+  .header-right {
+    float: none;
+  }
 }
