@@ -89,6 +89,10 @@ font-family: 'Montserrat', sans-serif;
     align-items: center;
 }
 
+.box p {
+    font-size: 14px;
+  }
+
 
 input [type=button] {
     border: 1px solid #c78c06;
