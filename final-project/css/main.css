@@ -74,7 +74,7 @@ a {
 }
 
 /* Style the active/current link */
-.header a .home {
+.header a .active {
     color:#222;
     background-color:#c78c06;
 }
