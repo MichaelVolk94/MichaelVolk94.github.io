@@ -75,7 +75,12 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .grid-container {
-    background-color: #ffe6ac;
+    background-color: white;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 500px;
+    row-gap: 1em;
 }
 
 .box {
