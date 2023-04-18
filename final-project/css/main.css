@@ -92,8 +92,13 @@ font-family: 'Montserrat', sans-serif;
     align-items: center;
 }
 
+.box h2 {
+  margin: 1rem;
+}
+
 .box p {
     font-size: 12px;
+    margin: 1rem;
   }
 
   .box1 {
