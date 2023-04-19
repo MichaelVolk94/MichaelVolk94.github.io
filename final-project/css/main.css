@@ -204,10 +204,18 @@ footer p {
 
 .center {
   position: absolute;
-  top: 50%;
+  top: 43.5%;
   left: 10%;
   transform: translate (-50%, -50%);
   color: white;
+}
+
+.content img {
+  height: auto;
+  width: auto;
+  max-width: 1200px;
+  max-height: 300px;
+  object-fit: cover;
 }
 
 
