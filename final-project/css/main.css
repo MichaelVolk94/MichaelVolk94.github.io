@@ -18,7 +18,17 @@ font-family: 'Montserrat', sans-serif;
     margin: auto;
 }
 
+header {
+  background-image: url(../images/main-banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
 
+.vision {
+  background-image: url(../images/vision.jpg);
+  background-size: cover;
+  background-position: center;
+}
 
 #search {
     border: 1px solid;
@@ -211,10 +221,6 @@ footer p {
 }
 
 .center {
-  position: absolute;
-  top: 43.5%;
-  left: 10%;
-  transform: hover (-50%, -50%);
   color: white;
 }
 
