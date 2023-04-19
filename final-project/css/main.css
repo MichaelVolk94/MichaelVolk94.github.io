@@ -18,10 +18,19 @@ font-family: 'Montserrat', sans-serif;
     margin: auto;
 }
 
-header {
+.welcome {
   background-image: url(../images/main-banner.jpg);
   background-size: cover;
   background-position: center;
+  padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 80px; 
+}
+
+.about {
+  background-color:#ffe6ac;
+  color: #222;
 }
 
 .vision {
@@ -31,7 +40,6 @@ header {
 }
 
 #search {
-    border: 1px solid;
     height: 50px;
     width: 300px;
     outline: 0;
