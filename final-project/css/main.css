@@ -36,6 +36,16 @@ font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
 
+.welcome .button {
+  background-color: #c78c06;
+    color: #222;
+    padding: 12px 40px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    margin: 1rem;
+}
+
 .about {
   background-color:#ffe6ac;
   color: #222;
