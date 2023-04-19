@@ -28,11 +28,25 @@ font-family: 'Montserrat', sans-serif;
   padding-left: 80px; 
 }
 
+.welcome h2 {
+  font-size: 30px;
+}
 
+.welcome p {
+  font-size: 14px;
+}
 
 .about {
   background-color:#ffe6ac;
   color: #222;
+}
+
+.about h2 {
+  font-size: 30px;
+}
+
+.about p {
+  font-size: 14px;
 }
 
 
