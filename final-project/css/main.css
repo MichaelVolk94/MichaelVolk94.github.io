@@ -144,6 +144,14 @@ font-family: 'Montserrat', sans-serif;
     margin: 1rem;
   }
 
+  .boxa {
+    grid-area: boxa;
+  }
+
+.boxb {
+  grid-area: boxb;
+}
+
 input {
     height: 20px;
     width: 50%;
