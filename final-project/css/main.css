@@ -181,7 +181,10 @@ font-family: 'Montserrat', sans-serif;
     margin: 1rem;
   }
 
-
+.grid {
+  display: grid; 
+  background-color:#ffe6ac;
+}
 
 input {
     height: 20px;
@@ -231,6 +234,10 @@ table, th, td {
     border: 1px solid;
     border-collapse: collapse;
     padding: 20px;
+}
+
+.hours {
+  width: 100%;  
 }
 
 footer {
