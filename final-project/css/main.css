@@ -266,6 +266,10 @@ footer p {
 @media screen and (min-width: 760px) {
 /* Styles applied for minimum width of 760px and over */
 
+.wrapper {
+  width: 760px;
+}
+
 /* Change the background color on mouse-over */
 .header a:hover {
     background-color: #c78c06;
@@ -293,5 +297,6 @@ iframe {
     width: 50%;
     height: 500px;
 }
+
 
 }
