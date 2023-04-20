@@ -134,6 +134,9 @@ font-family: 'Montserrat', sans-serif;
   margin: 1rem;
 }
 
+.box h3 {
+  margin: 1rem;
+}
 .box p {
     font-size: 12px;
     margin: 1rem;
@@ -260,17 +263,14 @@ footer p {
   object-fit: cover;
 }
 
-/* Create four equal columns that floats next to each other */
-.column {
-  background-color:#ffe6ac;
-  width: 50%;
-}
 
-/* Clear flotas after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.flex-container {
+  background-color:#ffe6ac;
+  flex-direction: row;
+  display: flex;
+  padding: 1em;
+  grid-template-areas: "boxa boxa boxa boxb boxb boxb"
+    "boxd boxd boxd boxc boxc boxc";
 }
 
 /* mobile width */
