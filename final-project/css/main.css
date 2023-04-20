@@ -269,8 +269,7 @@ footer p {
   flex-direction: row;
   display: flex;
   padding: 1em;
-  grid-template-areas: "boxa boxa boxa boxb boxb boxb"
-    "boxd boxd boxd boxc boxc boxc";
+
 }
 
 /* mobile width */
